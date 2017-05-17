@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-sass-demo",
+  "authors": [
+    "Germey"
+  ],
+  "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications.",
+  "moduleType": "globals",
+  "keywords": [
+    "twbs",
+    "bootstrap",
+    "sass"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}
